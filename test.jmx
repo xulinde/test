@@ -9,6 +9,8 @@
       <stringProp name="TestPlan.user_define_classpath"/>
       <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
         <collectionProp name="Arguments.arguments"/>
+         <collectionProp name="HTTPFileArgs.files"/>
+         <collectionProp name="HTTPFileArgs.files"/>
       </elementProp>
     </TestPlan>
     <hashTree>
